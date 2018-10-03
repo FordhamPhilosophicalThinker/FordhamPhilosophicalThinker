@@ -1,4 +1,4 @@
-# Fordham Philosopher Society
+# Fordham Philosophical Thinker
 
  >The unexamined life is not worth living
  -Aristotle
