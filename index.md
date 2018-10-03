@@ -1,3 +1,6 @@
-> Obama coudln't do this AAAAAAAAAHYHYHAYHAYHYAHYAHYAHYAHYAH and still WIN!
-
->   -Kanye West
+Executive Board Member | Position
+---------------------- | --------
+Josh | President
+Louis | Vice President
+Joseph | Secretary
+Brad | Treasurer
