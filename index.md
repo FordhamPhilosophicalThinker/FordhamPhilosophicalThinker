@@ -1,4 +1,4 @@
-Executive Board Member | Position
+#Executive Board Member | #Position
 ---------------------- | --------
 Josh | President
 Louis | Vice President
