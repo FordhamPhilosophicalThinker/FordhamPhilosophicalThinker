@@ -18,12 +18,12 @@
 
 ---
 
-Executive Board Member | Position
----------------------- | --------
-Josh Rosen | President
-Louis Norred | Vice President
-Joe McCartney | Secretary
-Brad Langhoff | Treasurer
+|Executive Board Member | Position |
+|:------------------- | -------- |
+|Josh Rosen | President |
+|Louis Norred | Vice President |
+|Joe McCartney | Secretary |
+|Brad Langhoff | Treasurer |
 
 
 
