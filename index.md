@@ -2,8 +2,12 @@
 
 ---
 
->The unexamined life is not worth living
-      -Aristotle
+>The unexamined life is not worth living  
+-Aristotle
+
+---
+
+
 
 ---
 
