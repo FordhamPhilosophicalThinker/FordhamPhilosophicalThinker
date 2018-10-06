@@ -1,10 +1,11 @@
 # Fordham Philosophical Thinker
 
 ---
+
 >The unexamined life is not worth living
       -Aristotle
 
-* * * 
+---
 
 [Stanford Encyclopedia of Philosophy][Stanford Encyclopedia]
 
@@ -18,13 +19,6 @@ Josh Rosen | President
 Louis Norred | Vice President
 Joe McCartney | Secretary
 Brad Langhoff | Treasurer
-
-
-
-
-
-
-
 
 
 
