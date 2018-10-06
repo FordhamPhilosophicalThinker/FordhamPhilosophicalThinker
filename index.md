@@ -1,6 +1,6 @@
 # Fordham Philosophical Thinker
 
-
+---
 >The unexamined life is not worth living
       -Aristotle
 
@@ -10,7 +10,7 @@
 
 [stanford encyclopedia]: https://plato.stanford.edu/
 
---------
+---
 
 Executive Board Member | Position
 ---------------------- | --------
